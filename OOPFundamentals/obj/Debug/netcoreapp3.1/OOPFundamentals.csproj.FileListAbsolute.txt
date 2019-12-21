@@ -1,0 +1,11 @@
+C:\Users\Dixon\source\repos\OOPFundamentals\OOPFundamentals\bin\Debug\netcoreapp3.1\OOPFundamentals.exe
+C:\Users\Dixon\source\repos\OOPFundamentals\OOPFundamentals\bin\Debug\netcoreapp3.1\OOPFundamentals.deps.json
+C:\Users\Dixon\source\repos\OOPFundamentals\OOPFundamentals\bin\Debug\netcoreapp3.1\OOPFundamentals.runtimeconfig.json
+C:\Users\Dixon\source\repos\OOPFundamentals\OOPFundamentals\bin\Debug\netcoreapp3.1\OOPFundamentals.runtimeconfig.dev.json
+C:\Users\Dixon\source\repos\OOPFundamentals\OOPFundamentals\bin\Debug\netcoreapp3.1\OOPFundamentals.dll
+C:\Users\Dixon\source\repos\OOPFundamentals\OOPFundamentals\bin\Debug\netcoreapp3.1\OOPFundamentals.pdb
+C:\Users\Dixon\source\repos\OOPFundamentals\OOPFundamentals\obj\Debug\netcoreapp3.1\OOPFundamentals.csprojAssemblyReference.cache
+C:\Users\Dixon\source\repos\OOPFundamentals\OOPFundamentals\obj\Debug\netcoreapp3.1\OOPFundamentals.AssemblyInfoInputs.cache
+C:\Users\Dixon\source\repos\OOPFundamentals\OOPFundamentals\obj\Debug\netcoreapp3.1\OOPFundamentals.AssemblyInfo.cs
+C:\Users\Dixon\source\repos\OOPFundamentals\OOPFundamentals\obj\Debug\netcoreapp3.1\OOPFundamentals.dll
+C:\Users\Dixon\source\repos\OOPFundamentals\OOPFundamentals\obj\Debug\netcoreapp3.1\OOPFundamentals.pdb
